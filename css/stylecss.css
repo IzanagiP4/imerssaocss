@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://cdn.discordapp.com/attachments/381505306880114709/710567070395269190/green_sun.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+   }
+   
+   .menu {
+     background-color: white;
+     
+   }
+   
+   .menu ul{
+     display: flex;
+     justify-content: space-around;
+   }
+   a {
+     text-decoration: none;
+   }
+   
+   a:hover{
+     text-decoration: underline;
+   }
+   
+   .menu li{
+     list-style: none;
+   }
+   
+   .site-title{
+     text-align: center;
+     color: white;
+     font-family: arial;
+   }
+   .site-subtitle{
+     text-align: center;
+     color: black;
+     font-family: arial;
+   }
